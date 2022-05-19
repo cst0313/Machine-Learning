@@ -1,2 +1,2 @@
 # Machine-Learning
-Here for notetaking
+Here for notetaking. I don't own any of these resources.
