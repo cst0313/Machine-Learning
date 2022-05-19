@@ -22,3 +22,6 @@ https://github.com/fxia22/PixelDTGAN
 
 OpenAI intro:
 https://deepai.org/machine-learning-glossary-and-terms/generative-adversarial-network
+
+Google Developers intro:
+https://developers.google.com/machine-learning/gan
