@@ -25,3 +25,6 @@ https://deepai.org/machine-learning-glossary-and-terms/generative-adversarial-ne
 
 Google Developers intro:
 https://developers.google.com/machine-learning/gan
+
+Generative Adversarial Networks and TF-GAN (ML Tech Talks):
+https://www.youtube.com/watch?v=qvBhp0e-Kuc
